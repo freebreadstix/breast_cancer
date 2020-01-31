@@ -1,5 +1,7 @@
 # Statistical Analysis of the Wisconsin Breast Cancer Dataset
 
+**NOTE:** Moved from incorrectly implemented data science projects repo, look there for previous commits
+
 The Wisconsin Breast Cancer Dataset contains samples with potential Breast Cancer [from the following study](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.56.707&rep=rep1&type=pdf). According to documentaion,  
 
 "Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image."
